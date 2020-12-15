@@ -1,0 +1,15 @@
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.csprojAssemblyReference.cache
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.Form1.resources
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.csproj.GenerateResource.cache
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.AssemblyInfoInputs.cache
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.AssemblyInfo.cs
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.csproj.CoreCompileInputs.cache
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\bin\Debug\netcoreapp3.1\FractionCalc.exe
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\bin\Debug\netcoreapp3.1\FractionCalc.deps.json
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\bin\Debug\netcoreapp3.1\FractionCalc.runtimeconfig.json
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\bin\Debug\netcoreapp3.1\FractionCalc.runtimeconfig.dev.json
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\bin\Debug\netcoreapp3.1\FractionCalc.dll
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\bin\Debug\netcoreapp3.1\FractionCalc.pdb
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.dll
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.pdb
+C:\Users\Giulio\source\repos\FractionCalc\FractionCalc\obj\Debug\netcoreapp3.1\FractionCalc.genruntimeconfig.cache
